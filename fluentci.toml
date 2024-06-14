@@ -1,0 +1,11 @@
+[package]
+name = "playwright"
+version = "0.1.0"
+description = "CI/CD Plugin for Playwright"
+license = "MIT"
+keywords = [
+  "e2e testing"
+]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
