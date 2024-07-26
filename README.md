@@ -1,5 +1,6 @@
 # Playwright Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/playwright)](https://pkg.fluentci.io/playwright)
 [![ci](https://github.com/fluentci-io/playwright-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/playwright-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with [Playwright](https://playwright.dev/).
