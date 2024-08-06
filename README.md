@@ -42,7 +42,7 @@ use fluentci_pdk::dag;
 
 // ...
 
-dag().call("https://pkg.fluentci.io/playwright@v0.1.0?wasm=1", "setup", vec!["latest"])?;
+dag().call("https://pkg.fluentci.io/playwright@v0.1.0?wasm=1", "install", vec![])?;
 ```
 
 ## 📚 Examples
